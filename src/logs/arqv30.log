@@ -1,0 +1,26 @@
+2025-08-03 16:47:39,450 - services.groq_client - INFO - ✅ Cliente Groq (llama3-70b-8192) inicializado com sucesso.
+2025-08-03 16:47:39,451 - services.ai_manager - INFO - ✅ Gemini (gemini-1.5-flash) inicializado com sucesso
+2025-08-03 16:47:39,463 - services.ai_manager - INFO - ✅ OpenAI (gpt-3.5-turbo) inicializado com sucesso
+2025-08-03 16:47:39,463 - services.ai_manager - INFO - ✅ Groq (llama3-70b-8192) inicializado com sucesso
+2025-08-03 16:47:39,463 - services.ai_manager - INFO - ✅ HuggingFace inicializado com sucesso
+2025-08-03 16:47:39,464 - services.ai_manager - INFO - 🤖 AI Manager inicializado com 4 provedores disponíveis.
+2025-08-03 16:47:39,549 - services.production_search_manager - INFO - Production Search Manager inicializado com 4 provedores
+2025-08-03 16:47:39,552 - services.content_extractor - INFO - Content Extractor inicializado com múltiplas estratégias
+2025-08-03 16:47:39,570 - services.auto_save_manager - INFO - ✅ Auto Save Manager inicializado: relatorios_intermediarios
+2025-08-03 16:47:39,779 - services.robust_content_extractor - INFO - 🔧 Robust Content Extractor inicializado
+2025-08-03 16:47:39,780 - services.robust_content_extractor - INFO - 📚 Extratores disponíveis: ['trafilatura', 'readability', 'newspaper', 'beautifulsoup', 'pdf_pypdf2', 'pdf_pdfplumber']
+2025-08-03 16:47:39,784 - services.content_quality_validator - INFO - Content Quality Validator inicializado
+2025-08-03 16:47:39,787 - services.mental_drivers_architect - INFO - Mental Drivers Architect inicializado
+2025-08-03 16:47:39,790 - services.visual_proofs_generator - INFO - Visual Proofs Generator inicializado
+2025-08-03 16:47:39,795 - services.anti_objection_system - INFO - Anti-Objection System inicializado com arsenal completo
+2025-08-03 16:47:39,799 - services.pre_pitch_architect - INFO - Pre-Pitch Architect inicializado
+2025-08-03 16:47:39,805 - services.future_prediction_engine - INFO - Future Prediction Engine inicializado
+2025-08-03 16:47:39,808 - services.enhanced_trends_service - INFO - Enhanced Trends Service inicializado com múltiplas fontes
+2025-08-03 16:47:39,811 - services.resilient_component_executor - INFO - Resilient Component Executor inicializado
+2025-08-03 16:47:39,811 - services.ultra_detailed_analysis_engine - INFO - 🚀 Ultra Detailed Analysis Engine CORRIGIDO inicializado
+2025-08-03 16:47:39,811 - services.enhanced_analysis_engine - INFO - Enhanced Analysis Engine inicializado - Sistemas: {'ai_manager': True, 'search_manager': True, 'content_extractor': True}
+2025-08-03 16:47:39,813 - services.safe_extract_content - INFO - Safe Content Extractor inicializado
+2025-08-03 16:47:39,818 - services.analysis_quality_controller - INFO - Analysis Quality Controller inicializado com tolerância ZERO a simulação
+2025-08-03 16:47:40,225 - services.supabase_client - INFO - ✅ Supabase client inicializado com sucesso
+2025-08-03 16:47:40,232 - services.local_file_manager - INFO - Local File Manager inicializado: C:\Users\user\Desktop\502 v250 project-bolt-github-lw8vvjdt\project\src\services\..\..\analyses_data
+2025-08-03 16:47:40,232 - database - INFO - ✅ Database Manager inicializado com Supabase + Local Files
